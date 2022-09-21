@@ -1,6 +1,9 @@
 import datetime
 import logging
+
 import os
+
+
 
 logging.basicConfig(level=logging.INFO)
 file_handler = logging.FileHandler("metro.log")
@@ -80,7 +83,8 @@ def compareDate(start, end):
 def check_date_card():
     previous = datetime.datetime.today() - datetime.timedelta(days=1)
     return previous
-
+def clear_screen():
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 one_time = One_time_use_card(2500, 140111)
 credit = Credit_card(14000, 140112)
@@ -105,7 +109,7 @@ try:
     option = int(input('Choose one option'))
 
     while option != 3:
-
+            clear_screen()
             if option == 1:
                 try:
                  serial = int(input('enter serial number'))
@@ -159,7 +163,7 @@ try:
 
             else:
                 print(f"Invalid option-Choose a number between 1 to 3")
-                os.system('cls')
+                clear()
             try:
                 option = int(input(f"Choose an option from list by entering number 1 to 3\n"
                                    f"{menu_description}"))
