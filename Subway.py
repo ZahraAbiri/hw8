@@ -27,3 +27,22 @@ class Credit_card(One_time_use_card):
 
     def increase_credit(self, creddit):
         self.money = self.get_money() + creddit
+
+
+class Time_credit_card(One_time_use_card):
+    def __init__(self, money, serial_number, start_date):
+        super().__init__(money, serial_number)
+        self.start_date = start_date
+        self.end_date = None
+
+    def get_start_date(self):
+        return self.start_date
+
+    def set_start_date(self, start_date):
+        self.start_date = start_date
+
+    def get_end_date(self):
+        return self.end_date
+
+    def set_money(self, end_date):
+        self.end_date = end_date
