@@ -73,8 +73,6 @@ class Time_credit_card(One_time_use_card):
 def compareDate(start, end):
     first_date = datetime.date(int(start[:4]), int(start[5:7]), int(start[8:10]))
     second_date = datetime.date(end.year, end.month, end.day)
-    print(first_date)
-    print(second_date)
     result = first_date > second_date
     return result
 
@@ -89,8 +87,6 @@ credit = Credit_card(14000, 140112)
 time_credit = Time_credit_card(12000, 140113, datetime.date.today())
 time_credit.set_end_date(check_date_card())
 date = compareDate(str(datetime.datetime.today()), datetime.datetime.today() - datetime.timedelta(days=1))
-
-print(date)
 list_One_time=[]
 list_credit=[]
 list_time_credit=[]
