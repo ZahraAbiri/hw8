@@ -1,0 +1,15 @@
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:12:16,936-root -INFO - Subway.py - serial number add 140113,money12000,start date<class 'datetime.date'> for time credit card
+2022-09-21 21:12:40,042-root -INFO - Subway.py - serial number use 140111 for one time credit card<class 'datetime.date'>
+2022-09-21 21:12:40,042-root -INFO - Subway.py - serial number use 140113 for time credit card<class 'datetime.date'>,expire date2022-09-20 21:12:40.042578
+2022-09-21 21:12:40,043-root -INFO - Subway.py - serial number use 140112 for credit card<class 'datetime.date'>
+2022-09-21 21:12:52,254-root -INFO - Subway.py - serial number use 140111 for one time credit card<class 'datetime.date'>
+2022-09-21 21:12:52,254-root -INFO - Subway.py - serial number use 140113 for time credit card<class 'datetime.date'>,expire date2022-09-20 21:12:52.254682
+2022-09-21 21:12:52,254-root -INFO - Subway.py - serial number use 140112 for credit card<class 'datetime.date'>
+2022-09-21 21:13:10,821-root -INFO - Subway.py - serial number use 140112 for increase25000 credit card<class 'datetime.date'>
+2022-09-21 21:13:27,802-root -INFO - Subway.py - serial number use 140111 for one time credit card<class 'datetime.date'>
+2022-09-21 21:13:27,802-root -INFO - Subway.py - serial number use 140113 for time credit card<class 'datetime.date'>,expire date2022-09-20 21:13:27.802692
+2022-09-21 21:13:27,802-root -INFO - Subway.py - serial number use 140112 for credit card<class 'datetime.date'>
