@@ -101,49 +101,70 @@ menu_description = """
 3. exit
 """
 print(menu_description)
-option = int(input('Choose one option'))
+try:
+    option = int(input('Choose one option'))
 
-while option != 3:
-        if option == 1:
+    while option != 3:
 
-            serial = int(input('enter serial number'))
-            for i in list_One_time:
-                if i.serial_number == serial and i.get_money() > 0:
-                    i.set_money(0)
-                    print('welcome')
-                elif i.serial_number == serial:
-                    print('this card used before')
-            logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
-            logger.info(f'serial number use {i.serial_number} for one time credit card{datetime.date.today()}')
+            if option == 1:
+                try:
+                 serial = int(input('enter serial number'))
+                 for i in list_One_time:
+                     if i.serial_number == serial and i.get_money() > 0:
+                         i.set_money(0)
+                         print('welcome')
+                     elif i.serial_number == serial:
+                         print('this card used before')
+                 logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
+                 logger.info(f'serial number use {i.serial_number} for one time credit card{datetime.date.today()}')
+                 for i in list_time_credit:
+                     if i.serial_number == serial:
+                         if compareDate(str(datetime.datetime.today()),
+                                        datetime.datetime.today() - datetime.timedelta(days=1)):
+                             print('card time expired')
+                         else:
+                             i.set_money(i.get_money() - money_for_one_trip)
+                 logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
+                 logger.info(
+                     f'serial number use {i.serial_number} for time credit card{datetime.date.today()},expire date{datetime.datetime.today() - datetime.timedelta(days=1)}')
 
-            for i in list_time_credit:
-                if i.serial_number == serial:
-                    if compareDate(str(datetime.datetime.today()), datetime.datetime.today() - datetime.timedelta(days=1)):
-                        print('card time expired')
-                    else:
-                        i.set_money(i.get_money() - money_for_one_trip)
-            logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
-            logger.info(f'serial number use {i.serial_number} for time credit card{datetime.date.today()},expire date{datetime.datetime.today() - datetime.timedelta(days=1)}')
+                 for i in list_credit:
+                     if i.serial_number == serial:
+                         i.set_money(i.money - money_for_one_trip)
+                         print("your credit is ", i.money)
+                 logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
+                 logger.info(f'serial number use {i.serial_number} for credit card{datetime.date.today()}')
 
-            for i in list_credit:
-                if i.serial_number == serial:
-                    i.set_money(i.money - money_for_one_trip)
-                    print("your credit is ",i.money)
-            logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
-            logger.info(f'serial number use {i.serial_number} for credit card{datetime.date.today()}')
+                except ValueError as er:
+                    logging.basicConfig(filename='metro.log', filemode='a', level=logging.ERROR)
+                    logger.info(f'serial number use {i.serial_number} for one time credit card{datetime.date.today()} has error')
+                    print(er)
 
 
-        elif option == 2:
-                serial = int(input('enter serial number'))
-                for i in list_credit:
-                    if i.serial_number == serial:
-                        i.set_money(i.money + (money_for_one_trip*10))
-                        print("your credit is ",i.money)
-                logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
-                logger.info(f'serial number use {i.serial_number} for increase{money_for_one_trip*10} credit card{datetime.date.today()}')
 
-        else:
-            print(f"Invalid option-Choose a number between 1 to 3")
-            os.system('cls')
-        option = int(input(f"Choose an option from list by entering number 1 to 3\n"
-                           f"{menu_description}"))
+
+            elif option == 2:
+                try:
+                    serial = int(input('enter serial number'))
+                    for i in list_credit:
+                        if i.serial_number == serial:
+                            i.set_money(i.money + (money_for_one_trip*10))
+                            print("your credit is ",i.money)
+                    logging.basicConfig(filename='metro.log', filemode='a', level=logging.INFO)
+                    logger.info(f'serial number use {i.serial_number} for increase{money_for_one_trip*10} credit card{datetime.date.today()}')
+
+                except ValueError as er:
+                    print(er)
+
+
+            else:
+                print(f"Invalid option-Choose a number between 1 to 3")
+                os.system('cls')
+            try:
+                option = int(input(f"Choose an option from list by entering number 1 to 3\n"
+                                   f"{menu_description}"))
+            except ValueError as err:
+                print(err)
+except Exception as error:
+       print(error)
+
