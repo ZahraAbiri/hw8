@@ -94,7 +94,8 @@ while option != 3:
             for i in list_One_time:
                 if i.serial_number == serial and i.get_money() > 0:
                     i.set_money(0)
-                else:
+                    print('welcome')
+                elif i.serial_number == serial:
                     print('this card used before')
             for i in list_time_credit:
                 if i.serial_number == serial:
@@ -105,13 +106,14 @@ while option != 3:
             for i in list_credit:
                 if i.serial_number == serial:
                     i.set_money(i.money - money_for_one_trip)
+                    print(i.money)
 
         elif option == 2:
                 serial = int(input('enter serial number'))
                 for i in list_credit:
                     if i.serial_number == serial:
                         i.set_money(i.money + (money_for_one_trip*10))
-                        print("your credit is "+i.get_money())
+                        print("your credit is ",i.money)
 
         else:
             print(f"Invalid option-Choose a number between 1 to 3")
