@@ -1,0 +1,190 @@
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:12:16,935-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:12:16,936-root -INFO - Subway.py - serial number add 140113,money12000,start date<class 'datetime.date'> for time credit card
+2022-09-21 21:12:40,042-root -INFO - Subway.py - serial number use 140111 for one time credit card<class 'datetime.date'>
+2022-09-21 21:12:40,042-root -INFO - Subway.py - serial number use 140113 for time credit card<class 'datetime.date'>,expire date2022-09-20 21:12:40.042578
+2022-09-21 21:12:40,043-root -INFO - Subway.py - serial number use 140112 for credit card<class 'datetime.date'>
+2022-09-21 21:12:52,254-root -INFO - Subway.py - serial number use 140111 for one time credit card<class 'datetime.date'>
+2022-09-21 21:12:52,254-root -INFO - Subway.py - serial number use 140113 for time credit card<class 'datetime.date'>,expire date2022-09-20 21:12:52.254682
+2022-09-21 21:12:52,254-root -INFO - Subway.py - serial number use 140112 for credit card<class 'datetime.date'>
+2022-09-21 21:13:10,821-root -INFO - Subway.py - serial number use 140112 for increase25000 credit card<class 'datetime.date'>
+2022-09-21 21:13:27,802-root -INFO - Subway.py - serial number use 140111 for one time credit card<class 'datetime.date'>
+2022-09-21 21:13:27,802-root -INFO - Subway.py - serial number use 140113 for time credit card<class 'datetime.date'>,expire date2022-09-20 21:13:27.802692
+2022-09-21 21:13:27,802-root -INFO - Subway.py - serial number use 140112 for credit card<class 'datetime.date'>
+2022-09-21 21:49:06,909-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:49:06,909-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:49:06,909-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:49:06,909-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:49:06,910-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:49:31,309-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:49:31,309-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:49:31,309-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:49:31,309-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:49:31,309-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:50:11,115-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:50:11,115-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:50:11,115-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:50:11,115-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:50:11,115-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:50:46,140-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:50:46,141-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:50:46,141-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:50:46,141-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:50:46,141-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:52:05,873-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:52:05,873-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:52:05,873-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:52:05,873-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:52:05,873-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:52:16,844-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 21:52:16,844-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 21:52:16.844333
+2022-09-21 21:52:16,845-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
+2022-09-21 21:52:25,023-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:52:25,023-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:52:25,023-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:52:25,023-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:52:25,023-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:53:41,064-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:53:41,065-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:53:41,065-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:53:41,065-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:53:41,065-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:53:44,113-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:53:44,113-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:53:44,114-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:53:44,114-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:53:44,114-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:56:02,058-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:56:02,058-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:56:02,058-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:56:02,058-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:56:02,058-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:56:04,088-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:56:04,088-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:56:04,088-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:56:04,088-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:56:04,088-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:56:32,628-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:56:32,628-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:56:32,628-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:56:32,628-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:56:32,628-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:56:34,687-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:56:34,687-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:56:34,688-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:56:34,689-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:56:34,689-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:56:34,689-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:56:34,689-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:56:34,689-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 21:58:10,137-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 21:58:10,137-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 21:58:10,137-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 21:58:10,138-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 21:58:10,138-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:00:15,051-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:00:15,217-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:00:15,217-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:00:15,217-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:00:15,218-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:00:18,319-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:00:18,319-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:00:18,319-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:00:18,319-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:00:18,319-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:05:05,353-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:05:05,353-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:05:05,353-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:05:05,353-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:05:05,353-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:05:36,132-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:05:36,132-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:05:36,132-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:05:36,132-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:05:36,132-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:05:38,523-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:05:38,524-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:05:38,524-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:05:38,524-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:05:38,524-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:08:22,588-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:08:22,588-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:08:22,589-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:08:22,589-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:08:22,589-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:08:45,406-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:08:45,407-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:08:45,407-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:08:45,407-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:08:45,407-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:08:56,712-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 22:08:56,712-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 22:08:56.712193
+2022-09-21 22:08:56,712-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
+2022-09-21 22:11:08,377-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:11:08,377-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:11:08,377-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:11:08,382-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:11:08,382-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:11:14,118-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 22:11:14,118-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 22:11:14.118385
+2022-09-21 22:11:14,118-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
+2022-09-21 22:11:27,067-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 22:11:27,068-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 22:11:27.068858
+2022-09-21 22:11:27,068-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
+2022-09-21 22:12:29,485-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:12:29,486-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:12:29,486-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:12:29,486-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:12:29,486-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:13:08,993-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:13:08,993-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:13:08,993-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:13:08,993-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:13:09,000-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:16:30,606-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:16:30,606-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:16:30,606-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:16:30,608-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:16:30,608-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:21:53,516-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:21:53,516-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:21:53,516-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:21:53,517-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:21:53,517-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:22:03,088-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 22:22:03,088-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 22:22:03.088668
+2022-09-21 22:22:03,088-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
+2022-09-21 22:22:16,446-root -INFO - Subway.py - serial number use 140112 for one time credit card2022-09-21 has error
+2022-09-21 22:25:44,825-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:25:44,825-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:25:44,825-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:25:44,825-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:25:44,825-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:25:52,463-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 22:25:52,463-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 22:25:52.463842
+2022-09-21 22:25:52,463-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
+2022-09-21 22:28:19,602-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:28:19,603-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:28:19,603-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:28:19,603-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:28:19,603-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:28:25,530-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 22:28:25,531-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 22:28:25.531934
+2022-09-21 22:28:25,531-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
+2022-09-21 22:29:16,982-root -INFO - Subway.py - serial number add 140111,money2500 for onetime card
+2022-09-21 22:29:16,983-root -INFO - Subway.py - serial number add 140112,money14000 for onetime card
+2022-09-21 22:29:16,983-root -INFO - Subway.py - serial number add 140112,money14000 for credit card
+2022-09-21 22:29:16,984-root -INFO - Subway.py - serial number add 140113,money12000 for onetime card
+2022-09-21 22:29:16,984-root -INFO - Subway.py - serial number add 140113,money12000,start date2022-09-21 for time credit card
+2022-09-21 22:29:24,236-root -INFO - Subway.py - serial number use 140111 for one time credit card2022-09-21
+2022-09-21 22:29:24,237-root -INFO - Subway.py - serial number use 140113 for time credit card2022-09-21,expire date2022-09-20 22:29:24.237848
+2022-09-21 22:29:24,237-root -INFO - Subway.py - serial number use 140112 for credit card2022-09-21
