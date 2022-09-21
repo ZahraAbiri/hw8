@@ -163,7 +163,7 @@ try:
 
             else:
                 print(f"Invalid option-Choose a number between 1 to 3")
-                clear()
+
             try:
                 option = int(input(f"Choose an option from list by entering number 1 to 3\n"
                                    f"{menu_description}"))
