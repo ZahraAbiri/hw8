@@ -1,3 +1,4 @@
+import datetime
 class Card:
     def __init__(self, serial_number):
         self.serial_number = serial_number
@@ -35,6 +36,8 @@ class Time_credit_card(One_time_use_card):
         self.start_date = start_date
         self.end_date = None
 
+
+
     def get_start_date(self):
         return self.start_date
 
@@ -46,3 +49,26 @@ class Time_credit_card(One_time_use_card):
 
     def set_money(self, end_date):
         self.end_date = end_date
+
+def compareDate(start,end):
+    first_date = datetime.date(int(start[:4]), int(start[5:7]), int(start[8:10]))
+    second_date = datetime.date(end.year, end.month, end.day)
+    print(first_date)
+    print(second_date)
+    result = first_date > second_date
+    return result
+def check_date_card():
+    previous=datetime.datetime.today()-datetime.timedelta(days=1)
+    print(previous)
+
+# one_time = One_time_use_card(2500, 140111)
+# credit = Credit_card(14000, 140112)
+# check_date_card()
+# timedelta = datetime.timedelta(days=1)
+# today = datetime.datetime.today()
+date = compareDate(str(datetime.datetime.today()), datetime.datetime.today() - datetime.timedelta(days=1))
+
+print(date)
+# start="2022-09-20 18:52:02.655069"
+# date = datetime.date(int(start[:4]), int(start[5:7]), int(start[8:10]))
+# print(date,'----')
